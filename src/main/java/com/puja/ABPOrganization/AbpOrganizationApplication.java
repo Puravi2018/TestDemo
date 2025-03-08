@@ -9,6 +9,8 @@ public class AbpOrganizationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AbpOrganizationApplication.class, args);
 		System.out.println("Application Started Successfully");
+		
+		
 	}
 
 }
