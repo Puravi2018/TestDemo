@@ -10,7 +10,7 @@ public class AbpOrganizationApplication {
 		SpringApplication.run(AbpOrganizationApplication.class, args);
 		System.out.println("Application Started Successfully");
 		
-		
+		System.out.println("Application Started Successfully123");
 	}
 
 }
